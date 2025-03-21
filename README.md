@@ -1,2 +1,2 @@
-# AI_assinment_MSofCS_ELU
+# AI_assignment_MSofCS_ELU
 assignment of AI course 
